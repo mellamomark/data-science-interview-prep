@@ -3,9 +3,10 @@
 
 Please note that these notebooks are intended to review material rather than teach. The assumption being that you are comfortable coding in Python, familiar with statistics, and understand the data science workflow.  
 
-If you are looking to learn data science, I highly recommend the book Python Data Science Handbook by Jake VanderPlas: https://jakevdp.github.io/PythonDataScienceHandbook/.  
+If you are looking to learn data science, I highly recommend the book *Python Data Science Handbook* by Jake VanderPlas: https://jakevdp.github.io/PythonDataScienceHandbook/.  
 
-# Notebooks  
+# Interactive Notebooks  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mellamomark/data-science-interview-prep/master)  
 | Topic | Module Link | Answer Link | Status | Last Updated |  
 | --- | --- | --- | --- | --- |  
 | Statistics Basics (Part 1) | | | coming soon | 2020-06-21 |  
